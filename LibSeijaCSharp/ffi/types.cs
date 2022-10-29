@@ -10,3 +10,9 @@ public struct Quat {
     public float Z;
     public float W;
 }
+
+public enum MouseButton {
+    Left,
+    Right,
+    Middle,
+}
